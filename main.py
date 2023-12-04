@@ -1,8 +1,6 @@
-def arreglo(n):
-    vector = []
-    for i in range(1,n+1):
-        num = int(input(f'ingrese el numero {i}: '))
-        vector.append(num)
-        
-    return vector
-
+nu = [23,34,23,3,2,34,6,5,6,5,4,3]
+maximo = nu[0]
+for i in nu:
+    if i > maximo:
+        maximo = i
+print('El maximo es: ', maximo)
