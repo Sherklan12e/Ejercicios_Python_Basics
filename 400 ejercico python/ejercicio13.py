@@ -9,8 +9,7 @@
 
 
 
-num = '*****'
-for i in range(1,5+1):
-    
-    print(num[2])
+for i in range(5, 0, -1):
+    print("*" * i)
+
     
