@@ -1,5 +1,5 @@
 def caracter(Caracter):
-    vocales = "aeiou"
+    vocales = "aeiouAEIOU"
     return Caracter in vocales
 
 print(caracter("a"))
