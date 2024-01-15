@@ -39,7 +39,7 @@ Este repositorio contiene ejemplos, proyectos y recursos relacionados con mi apr
 - [youtube: Proyectos con python ES ](https://youtu.be/tWnyBD2src0?si=epPHtL414T8gQC-C).
 
 
-- [Libro recomendado sobre Python](https://ejemplo.com/libro).
+- [Libro recomendado sobre Python](/recurso/𝑎𝑝𝑟𝑒𝑛𝑑𝑒_𝑎_𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑎𝑟_𝑒𝑛_𝑝𝑦𝑡ℎ𝑜𝑛.pdf).
 
 ## Contribuir
 
