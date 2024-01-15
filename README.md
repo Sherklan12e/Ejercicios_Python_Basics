@@ -18,12 +18,13 @@ Este repositorio contiene ejemplos, proyectos y recursos relacionados con mi apr
 
 ## Estructura del Repositorio
 
-- `/ejemplos`: Carpeta que contiene ejemplos simples de código en Python.
-- `/proyectos`: Carpeta que alberga proyectos más extensos y aplicaciones.
-- `/recursos`: Documentos, tutoriales y enlaces útiles relacionados con Python.
-- `/recursos`: Documentos, tutoriales y enlaces útiles relacionados con Python.
-- `/recursos`: Documentos, tutoriales y enlaces útiles relacionados con Python.
-- `/recursos`: Documentos, tutoriales y enlaces útiles relacionados con Python.
+- `/400 ejercicios pyhton`: Carpeta que contiene un Pdf de 400 ejercicios con python 
+- `/Aprender con Alf`: Carpeta que alberga ejercicios de la pagina web [Aprender con Alf](https://aprendeconalf.es/docencia/python/ejercicios/).
+- `/BigBayData.com`: Ejericios de la pagina web [bigbaydata](https://www.bigbaydata.com/ejercicios-de-programacion-en-python/).
+- `/cursopython`: Documentos y informacion sobre python .
+- `/Mi Diario Python`: Ejercicio sacados de la pagina web [Mi diarion python](https://pythondiario.com/ejercicios-de-programacion-python).
+- `/Proyectos`: Muestra proyectos realizadoes con python .
+- `/recurso/`: Recursos que habran para saber mas de python
 
 ## Proyectos
 
