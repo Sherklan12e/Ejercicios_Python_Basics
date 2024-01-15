@@ -32,7 +32,13 @@ Este repositorio contiene ejemplos, proyectos y recursos relacionados con mi apr
 
 ## Recursos
 
-- [Enlace a un tutorial interesante](https://ejemplo.com/tutorial).
+- [youtube: Solopython ES ](https://youtu.be/ppz1e_ceeIw?si=N74JUju1kBU6KLoI).
+- [youtube: Hola mundo ES ](https://youtu.be/tQZy0U8s9LY?si=wv2BZHL8pvaNbc7j).
+- [youtube: Bro Code EN ](https://youtu.be/XKHEtdqhLK8?si=z3WVQSQeHcJzSTNQ).
+- [youtube: Amigos Code EN](https://youtu.be/LzYNWme1W6Q?si=_j-Ee__OZlvDkLwO).
+- [youtube: Proyectos con python ES ](https://youtu.be/tWnyBD2src0?si=epPHtL414T8gQC-C).
+
+
 - [Libro recomendado sobre Python](https://ejemplo.com/libro).
 
 ## Contribuir
