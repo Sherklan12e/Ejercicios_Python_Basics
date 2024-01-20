@@ -64,7 +64,7 @@ ayudita : perimetro = 2 * (base + altura)
 
 Solicita al usuario el precio de un producto y un porcentaje de descuento, luego muestra el precio final. 
 
-ayudita : descuento_en_pesos = precio * descuento / 100
+ayudita : descuento_en_pesos = precio = precio * descuento / 100
 
 
 # 13 Conversión de temperatura:
