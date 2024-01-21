@@ -1,8 +1,13 @@
-bolitas = ''
-for i in range(2+1):
-    bolitas += '*'
-    print(bolitas)
-for i in range(2,0,-1):
-    bolitas = '*'*i
-    print(bolitas)
-        
+def posicionesPares(lista):
+    print('==============')
+    for i in range(1,len(lista) ) :
+        if i %2==0:
+           print(lista[i],f' Posicion par :{i}') 
+    
+    
+
+
+listas = ['H','o','l','a','','c','o','m','o','e','s','t','a','s']
+
+
+print(posicionesPares(listas))

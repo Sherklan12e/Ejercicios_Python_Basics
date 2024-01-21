@@ -1,4 +1,4 @@
-Prueba los siguientes ejercicios:
+# Prueba los siguientes ejercicios
 
 1 Realice un programa que enumere los paises de la siguiente lista
  paises = ['Canada', 'USA', 'Mexico', 'Australia']
@@ -27,11 +27,11 @@ Prueba los siguientes ejercicios:
 **
 *
 
-11. Imprima el siguiente patrón con el ciclo for:
+11 Imprima el siguiente patrón con el ciclo for:
 5 4 3 2 1
 4 3 2 1
 3 2 1
 2 1
 1
 
-12. Escriba un programa en Python para imprimir todos los números primos entre 0 y 100 e imprima cuántos números primos hay.
+12 Escriba un programa en Python para imprimir todos los números primos entre 0 y 100 e imprima cuántos números primos hay
