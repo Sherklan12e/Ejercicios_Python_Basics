@@ -1,4 +1,5 @@
 from typing import List , Union
+import random
 #A
 def duplicado(lista: Union[List[str],List[int]] )-> bool:
     logintud = len(lista)
@@ -6,30 +7,18 @@ def duplicado(lista: Union[List[str],List[int]] )-> bool:
         for j in range(i+1, logintud):
             if lista[i] ==lista[j]:
                 return True
-        
     return False
 #B
+def general():
+    lista= []
+    for i in range(1,23+1):
+        numero = random.randint(1,100)
+        lista.append(numero)
+        
+    return lista
 
 
+randomlist= general()
 
-
-
-
-
-
-
-
-
-
-
-
-def Generador_de_numero(lista):
-    n = len(lista)
-    for i in range(n):
-        for j in range(i+1, n):
-            if lista[i] == lista[j]:
-                return True
-    return False
-
-lista = [1,4,5,2,4]
-print(Generador_de_numero(lista))
+print(randomlist)
+print(duplicado(randomlist))
