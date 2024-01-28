@@ -8,3 +8,4 @@
 # si la palabra que buscamos está antes o después del centro. Si está antes, se busca solo en la 
 # primera mitad, si está después se busca en la otra mitad de la lista. Con esto reduciremos
 # el tiempo de búsqueda
+
