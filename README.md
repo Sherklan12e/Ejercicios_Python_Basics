@@ -1,4 +1,4 @@
-# Aprendiendo Python
+# Python
 
 Este repositorio contiene ejemplos, proyectos y recursos relacionados con mi aprendizaje de Python. Estoy explorando diferentes conceptos y creando mini proyectos para mejorar mis habilidades en Python.
 
