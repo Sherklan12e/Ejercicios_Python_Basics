@@ -1,7 +1,7 @@
-# Calculadora de Propinas: Crea un script que calcule la propina en función del monto de la factura y el porcentaje de propina.
+# Calculadora 
+import tkinter
 
 
-
-
-
-
+import time
+root = tkinter.Tk()
+root.mainloop()
