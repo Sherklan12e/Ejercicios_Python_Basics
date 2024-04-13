@@ -20,3 +20,4 @@ elif tipo == 2 :
     precio = precio * 0.10
 else:
     print("Eso no es un tipo de factura, ! porfavor ingrese el tipo de factura")
+print("El precio total: " , precio)
