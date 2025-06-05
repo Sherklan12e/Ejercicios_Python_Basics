@@ -8,7 +8,7 @@ def inversa(cadena):
 lista = ["estoy  ha"]
 
 
-print(inversa(lista))
+print(inversa(lista)[::-1])
 
 
 
